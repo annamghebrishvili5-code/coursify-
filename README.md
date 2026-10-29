@@ -48,3 +48,7 @@ Coursify_Final/
 │   └── data.js
 └── README.md
 ```
+
+
+## GitHub Pages ფაილების განლაგება
+ყველა HTML ფაილი და `style.css`, `app.js`, `data.js` მთავარ საქაღალდეშია. HTML ფაილებში აქტივების მისამართები ფარდობითია, ამიტომ მუშაობს GitHub Pages-ის `/coursify/` მისამართზეც.
