@@ -1,0 +1,80 @@
+window.COURSIFY_COURSES = [
+  {
+    "id": "web-basics",
+    "title": "ვებგვერდების შექმნის საფუძვლები",
+    "category": "ვებ-დეველოპმენტი",
+    "instructor": "ნინო ბერიძე",
+    "level": "დამწყები",
+    "duration": "6 კვირა",
+    "price": 89,
+    "rating": 4.9,
+    "students": 1240,
+    "description": "ისწავლეთ HTML-ის, CSS-ისა და JavaScript-ის საფუძვლები და შექმენით თქვენი პირველი responsive ვებგვერდი.",
+    "gradient": "linear-gradient(135deg,#4f46e5,#7c3aed)"
+  },
+  {
+    "id": "react-practice",
+    "title": "თანამედროვე ვებაპლიკაციები",
+    "category": "ვებ-დეველოპმენტი",
+    "instructor": "გიორგი მაისურაძე",
+    "level": "საშუალო",
+    "duration": "8 კვირა",
+    "price": 129,
+    "rating": 4.8,
+    "students": 890,
+    "description": "გაეცანით თანამედროვე ვებაპლიკაციების დაგეგმვის, კომპონენტებად ორგანიზებისა და მომხმარებლის გამოცდილების გაუმჯობესების პრინციპებს.",
+    "gradient": "linear-gradient(135deg,#0f766e,#06b6d4)"
+  },
+  {
+    "id": "ui-ux",
+    "title": "UI/UX დიზაინის საფუძვლები",
+    "category": "დიზაინი",
+    "instructor": "მარიამ კაპანაძე",
+    "level": "დამწყები",
+    "duration": "5 კვირა",
+    "price": 75,
+    "rating": 4.7,
+    "students": 760,
+    "description": "შეისწავლეთ მომხმარებელზე ორიენტირებული დიზაინი, wireframe-ები, პროტოტიპირება და ინტერფეისის ძირითადი პრინციპები.",
+    "gradient": "linear-gradient(135deg,#db2777,#f97316)"
+  },
+  {
+    "id": "python-data",
+    "title": "Python მონაცემთა ანალიზისთვის",
+    "category": "მონაცემთა ანალიზი",
+    "instructor": "ლევან ჯაფარიძე",
+    "level": "საშუალო",
+    "duration": "7 კვირა",
+    "price": 110,
+    "rating": 4.8,
+    "students": 1020,
+    "description": "გამოიყენეთ Python მონაცემების დამუშავების, ანალიზისა და შედეგების გასაგებად წარმოდგენისთვის.",
+    "gradient": "linear-gradient(135deg,#b45309,#eab308)"
+  },
+  {
+    "id": "digital-marketing",
+    "title": "ციფრული მარკეტინგის პრაქტიკა",
+    "category": "მარკეტინგი",
+    "instructor": "სალომე ქავთარაძე",
+    "level": "დამწყები",
+    "duration": "4 კვირა",
+    "price": 69,
+    "rating": 4.6,
+    "students": 650,
+    "description": "გაეცანით კონტენტ-სტრატეგიას, სოციალური მედიის არხებს, აუდიტორიის განსაზღვრასა და კამპანიის შედეგების შეფასებას.",
+    "gradient": "linear-gradient(135deg,#4338ca,#2563eb)"
+  },
+  {
+    "id": "cybersecurity",
+    "title": "კიბერუსაფრთხოების შესავალი",
+    "category": "ტექნოლოგიები",
+    "instructor": "დავით ლომიძე",
+    "level": "დამწყები",
+    "duration": "6 კვირა",
+    "price": 95,
+    "rating": 4.9,
+    "students": 980,
+    "description": "შეისწავლეთ ციფრული უსაფრთხოების ძირითადი ცნებები, უსაფრთხო პაროლები, ფიშინგის ამოცნობა და მონაცემთა დაცვის ჩვევები.",
+    "gradient": "linear-gradient(135deg,#334155,#64748b)"
+  }
+];
