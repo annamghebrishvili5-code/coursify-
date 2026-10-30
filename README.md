@@ -48,6 +48,22 @@ Coursify_Final/
 │   └── data.js
 └── README.md
 ```
+## Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox and Grid
+- JavaScript
+- Git and GitHub
+
+## Project Features
+
+- Multiple website pages
+- Responsive design
+- Interactive elements
+- Course information
+- Shopping cart and favorites
+- Contact page
 
 
 ## GitHub Pages ფაილების განლაგება
